@@ -1,0 +1,6 @@
+<?php
+$headTitle = "Student View";
+$viewHeading = htmlHeading("Student View",2);
+$content = htmlParagraph('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt lacus a arcu gravida ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean eget molestie mauris. Fusce ornare et nulla ut commodo. Mauris tincidunt congue pulvinar. In hac habitasse platea dictumst. Aenean vitae sagittis leo. Sed et leo sodales, laoreet magna a, tempor enim. Duis sed ullamcorper augue, vitae aliquam ligula. Morbi ut leo sed nunc dignissim imperdiet vel ac nunc. Ut luctus mollis augue eu posuere. Etiam quis enim sed lectus luctus tincidunt a vel mauris.');
+$content .= htmlParagraph('Aliquam ut augue metus. Donec cursus pretium pellentesque. In quis nunc sit amet lorem sollicitudin pretium sed ut risus. Integer finibus et nisi quis imperdiet. Aliquam placerat erat quis porta feugiat. Proin ut nunc metus. Quisque finibus eleifend sapien, at tincidunt lorem convallis quis. Ut ut metus sit amet lectus facilisis interdum sit amet non turpis. Sed dictum lorem ac lacus eleifend, vel accumsan leo accumsan. Vivamus tincidunt mi vel nunc commodo hendrerit. Etiam ultrices pulvinar quam, at luctus neque imperdiet nec.');
+?>
